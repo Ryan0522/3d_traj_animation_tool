@@ -11,3 +11,7 @@ Run: 2
 t x y z
 ...
 ```
+
+Run Analysis.py as follows: `python animate_pos.py <loadfilename> <savefigfilename> <animationfilename>` (for file name(s) with space, wrap around with "")
+
+(Not all methods of converting to animation is used, change main for different needs)
